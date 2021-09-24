@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SachaBrd
+- 👀 I’m interested in science, music and arts
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data and cloud developpment
+- 📫 How to reach me : bourdeau.sacha@gmail.com
